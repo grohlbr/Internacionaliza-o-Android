@@ -3,84 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="dbf1143f5123045814e716102c4a16bb0f475acf">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a7c8e4aa3a3843d33aad4d1b6ff10948b485f0b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/arthur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_42434ab278cdb6374848a7b5277ad2a89d0b7953/classes.dex" />
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_42434ab278cdb6374848a7b5277ad2a89d0b7953/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5a811c161f4430c8caac67acadcfbb9231b45400/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_35760818ae8ce7178132ca92bbe6e149252385f9/classes.dex" />
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_cb88b79221cc92a221b7c239b280640f0bf1c58a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.3"
-        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_8d5caa1eb752688a1306785a1a37ef303e97302b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_811bc719db3b06d6f29cbad2ff37272efd636de5/classes.dex" />
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7b46debeac35b9d313744596839308454b7dd87c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_10ecf5484beb6b24cd67063759a4d836f66ee920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="cee44714688b3ed5d7918b7b80c05c24be41ff14">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bd40149f46fcedfdaabe6223a3a6647819aa1176/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_05ea43c8dd31f68dc0689e1b9e72e05ae3d31e7c/classes.dex" />
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_488a0c048902b1ed0608a5dceb7151715226f248/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
-        sha1="a6f2d9da0a5c480a15d48f1c2a5f98b9c983dbe0">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e22309410a8b62c3c7dcf7d685642aba6d2c7ae/classes.dex" />
+        sha1="8b90c3e92b49d7b3aa15ee3cc9588024837a8f24">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6713a0a6dfc4ec3cc2e7c1a83e64288cab8964e8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7ddd0c9d411437e514c4778a97eae8f34b5cc2e1/classes.dex" />
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_b18dfed7062773bf187d9a343c3da9aae8d7c392/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -89,7 +80,16 @@
         optimize="false"
         revision="23.0.3"
         sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
-        <dex dex="/Applications/MAMP/htdocs/unisinos-android/InternacionalizacaoAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_809b9ebc5dccb359d0d46e52dd0f5370c50e06d0/classes.dex" />
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_809b9ebc5dccb359d0d46e52dd0f5370c50e06d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Applications/MAMP/htdocs/unisinos-android/Internacionaliza-o-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_2c393dfca2ec0c7f3648b226e228a4a152204d4d/classes.dex" />
     </item>
 
 </items>
